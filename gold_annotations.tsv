@@ -1,0 +1,939 @@
+artifact	definition	frame
+abacus	a tablet placed horizontally on top of the capital of a column as an aid in supporting the architrave	None of above
+accordion	a portable box-shaped free-reed instrument; the reeds are made to vibrate by air from the bellows controlled by the player	Make_noise
+airplane	an aircraft that has a fixed wing and is powered by propellers or jets	Self_motion
+airship	a steerable self-propelled aircraft	Self_motion
+album	one or more recordings issued together; originally released on 12-inch phonograph records (usually with attractive record covers) and later on cassette audiotape and compact disc	Perception_experience
+altar	the table in Christian churches where communion is given	Rite
+ambulance	a vehicle that takes people to and from hospitals	Self_motion
+ammo	projectiles to be fired from a gun	Cause_harm
+ammunition	projectiles to be fired from a gun	Cause_harm
+amplifier	electronic equipment that increases strength of signals passing through it	None of above
+anchor	a mechanical device that prevents a vessel from moving	Inhibit_movement
+anklet	a shoe for a child or woman that has a strap around the ankle	Wearing
+antenna	an electrical device that sends or receives radio or television signals	None of above
+anvil	a heavy block of iron or steel on which hot metals are shaped by hammering	Supporting
+apparel	clothing in general	Wearing
+appliance	a device or control that is very useful for a particular job	None of above
+apron	a garment of cloth or leather or plastic that is tied about the waist and worn to protect your clothing	Protecting
+armchair	chair with a support on each side for arms	Supporting
+armoire	a large wardrobe or cabinet; originally used for storing weapons	Containing
+armor	protective covering made of metal and used in combat	Protecting
+arms	weapons considered collectively	Cause_harm
+artifact	a man-made object taken as a whole	None of above
+ashcan	a bin that holds rubbish until it is collected	Containing
+ashtray	a receptacle for the ash from smokers' cigars or cigarettes	Containing
+asphalt	mixed asphalt and crushed gravel or sand; used especially for paving but also for roofing	Building
+audiotape	a tape recording of sound	Create_representation
+automobile	a motor vehicle with four wheels; usually propelled by an internal combustion engine	Self_motion
+awning	a canopy made of canvas to shelter people or things from rain or sun	Protecting
+ax	an edge tool with a heavy bladed head mounted across a handle	Cutting
+axe	an edge tool with a heavy bladed head mounted across a handle	Cutting
+backboard	a raised vertical board with basket attached; used to play basketball	Competition
+backpack	a bag carried by a strap on your back or shoulder	Containing
+bag	a flexible container with a single opening	Containing
+bagpipe	a tubular wind instrument; the player blows air into a bag and squeezes it out through the drone	Make_noise
+ball	round object that is hit or thrown or kicked in games	None of above
+balloon	large tough nonrigid bag filled with gas or heated air	Self_motion
+bandage	a piece of soft material that covers and protects an injured part of the body	Protecting
+bandanna	large and brightly colored handkerchief; often used as a neckerchief	Wearing
+banjo	a stringed instrument of the guitar family that has long neck and circular body	Make_noise
+banner	long strip of cloth or paper used for decoration or advertising	None of above
+barbell	a bar to which heavy discs are attached at each end; used in weightlifting	Competition
+barbwire	strong wire with barbs at regular intervals used to prevent passage	Inhibit_movement
+barometer	an instrument that measures atmospheric pressure	Dimension
+baseboard	a molding covering the joint formed by a wall and the floor	Protecting
+basin	a bowl-shaped vessel; usually used for holding food or liquids	Containing
+basket	a container that is usually woven and has handles	Containing
+bassinet	a basket (usually hooded) used as a baby's bed	Sleep
+bath	a vessel containing liquid in which something is immersed (as to process it or to maintain it at a constant temperature or to lubricate it)	Grooming
+bathrobe	a loose-fitting robe of towelling; worn after a bath or swim	Wearing
+bathtub	a relatively large open container that you fill with water and use to wash the body	Grooming
+baton	a thin tapered rod used by a conductor to lead an orchestra or choir	Performing_arts
+battleship	large and heavily armoured warship	Cause_harm
+bayonet	a knife that can be fixed to the end of a rifle and used as a weapon	Cause_harm
+bazooka	a portable rocket launcher used by infantrymen as an antitank weapon	Cause_harm
+beachwear	clothing to be worn at a beach	Wearing
+bead	a small ball with a hole through the middle	None of above
+beaker	a flatbottomed jar made of glass or plastic; used for chemistry	Containing
+beanie	a small skullcap; formerly worn by schoolboys and college freshmen	Wearing
+bed	a piece of furniture that provides a place to sleep	Sleep
+bedding	coverings that are used on a bed	Sleep
+bedpan	a shallow vessel used by a bedridden patient for defecation and urination	Excreting
+bedpost	any of 4 vertical supports at the corners of a bedstead	Supporting
+beeper	an electronic device that generates a series of beeps when the person carrying it is being paged	Contacting
+bell	a hollow device made of metal that makes a ringing sound when struck	Make_noise
+bench	a long seat for more than one person	Supporting
+beret	a cap with no brim or bill; made of soft cloth	Wearing
+bib	top part of an apron; covering the chest	Protecting
+bicycle	a wheeled vehicle that has two wheels and is moved by foot pedals	Self_motion
+bifocals	eyeglasses having two focal lengths, one for near vision and the other for far vision	Perception_experience
+bike	a motor vehicle with two wheels and a strong frame	Self_motion
+bin	a container; usually has a lid	Containing
+binder	a machine that cuts grain and binds it in sheaves	Cutting
+binoculars	an optical instrument designed for simultaneous use by both eyes	Perception_experience
+birdbath	an ornamental basin (usually in a garden) for birds to bathe in	Grooming
+blackboard	sheet of slate; for writing with chalk	Text_creation
+blacktop	a black bituminous material used for paving roads or other areas; usually spread over crushed rock	Building
+blanket	bedding that keeps a person warm in bed	Sleep
+blazer	lightweight single-breasted jacket; often striped in the colors of a club or school	Wearing
+blindfold	a cloth used to cover the eyes	Eclipse
+blouse	a top worn by women	Wearing
+blowtorch	a burner that mixes air and gas to produce a very hot flame	Setting_fire
+boa	a long thin fluffy scarf of feathers or fur	Wearing
+boat	a small vessel for travel on water	Self_motion
+bobsleigh	formerly two short sleds coupled together	Self_motion
+bodice	part of a dress above the waist	Wearing
+boiler	sealed vessel where water is converted to steam	Cause_temperature_change
+bomb	an explosive device fused to explode under specific conditions	Cause_harm
+bonnet	a hat tied under the chin	Wearing
+book	a written work or composition that has been published (printed on pages bound together)	Reading_activity
+bookcase	a piece of furniture with shelves for storing books	Containing
+booklet	a small book usually having a paper cover	Reading_activity
+bookmark	a marker (a piece of paper or ribbon) placed between the pages of a book to mark the reader's place	Reading_activity
+bookmarker	a marker (a piece of paper or ribbon) placed between the pages of a book to mark the reader's place	Reading_activity
+bookshelf	a shelf on which to keep books	Containing
+boomerang	a curved piece of wood; when properly thrown will return to thrower	Hunting
+boot	footwear that covers the whole foot and lower leg	Wearing
+bootie	a slipper that is soft and wool (for babies)	Wearing
+bootlace	a long lace for fastening boots	Closure
+bottle	a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped	Containing
+bow	a knot with two loops and loose ends; used to tie shoelaces	Closure
+bowl	a round vessel that is open at the top; used chiefly for holding food or liquids	Ingestion
+bowtie	a man's tie that ties in a bow	Wearing
+box	a (usually rectangular) container; may have a lid	Containing
+boxcar	a freight car with roof and sliding doors in the sides	Bringing
+bra	an undergarment worn by women to support their breasts	Wearing
+bracelet	a band of cloth or leather or metal links attached to a wristwatch and wrapped around the wrist	Wearing
+braces	an appliance that corrects dental irregularities	Cure
+brassiere	an undergarment worn by women to support their breasts	Wearing
+breadboard	a wooden or plastic board on which dough is kneaded or bread is sliced	Supporting
+breadbox	a container used to keep bread or cake in	Containing
+breastplate	armor plate that protects the chest; the front part of a cuirass	Protecting
+breathalyzer	a device that measures chemicals (especially the alcohol content) in a person's expired breath	Dimension
+brick	rectangular block of clay baked by the sun or in a kiln; used as a building or paving material	Building
+briefcase	a case with a handle; for carrying papers or files or books	Containing
+brochure	a small book usually having a paper cover	Reading_activity
+broom	a cleaning implement for sweeping; bundle of straws or twigs attached to a long handle	Removing
+buck	a gymnastic horse without pommels and with one end elongated; used lengthwise for vaulting	Competition
+bucket	a roughly cylindrical vessel that is open at the top	Containing
+buckshot	small lead shot for shotgun shells	Cause_harm
+buffet	a piece of furniture that stands at the side of a dining room; has shelves and drawers	Containing
+bugle	a brass instrument without valves; used for military calls and fanfares	Make_noise
+bullet	a projectile that is fired from a gun	Cause_harm
+bullhorn	a portable loudspeaker with built-in microphone and amplifier	Make_noise
+bumper	a glass filled to the brim (especially as a toast)	Containing
+burlap	coarse jute fabric	None of above
+burner	an apparatus for burning fuel (or refuse)	Setting_fire
+bus	a vehicle carrying many passengers; used for public transport	Self_motion
+button	a round fastener sewn to shirts and coats etc to fit through buttonholes	Closure
+buttonhole	a hole through which buttons are pushed	Closure
+buzzer	a push button at an outer door that gives a ringing or buzzing signal when pushed	Make_noise
+cabinet	a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display	Containing
+cake	a block of solid substance (such as soap or wax)	None of above
+camcorder	a portable television camera and videocassette recorder	Create_representation
+camera	equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other)	Create_representation
+camisole	a short sleeveless undergarment for women	Wearing
+candle	stick of wax with a wick in the middle	Light_movement
+cane	a stick that people can lean on to help them walk	Supporting
+canister	a metallic cylinder packed with shot and used as ammunition in a firearm	Cause_harm
+cannon	a large artillery gun that is usually on wheels	Cause_harm
+cannonball	a solid projectile that in former times was fired from a cannon	Cause_harm
+canoe	small and light boat; pointed at both ends; propelled with a paddle	Self_motion
+canopy	the transparent covering of an aircraft cockpit	Protecting
+canteen	a flask for carrying water; used by soldiers or travelers	Containing
+canvas	a heavy, closely woven fabric (used for clothing or chairs or sails or tents)	None of above
+cap	a tight-fitting headdress	Wearing
+capsule	a small container	Containing
+car	a motor vehicle with four wheels; usually propelled by an internal combustion engine	Self_motion
+carafe	a bottle with a stopper; for serving wine or water	Containing
+cardigan	knitted jacket that is fastened up the front with buttons or a zipper	Wearing
+cargo	goods carried by a large vehicle	None of above
+carpet	floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)	Protecting
+carpetbag	traveling bag made of carpet; widely used in 19th century	Containing
+carriage	a railcar where passengers ride	Self_motion
+cart	a heavy open wagon usually having two wheels and drawn by an animal	Bringing
+cartridge	ammunition consisting of a cylindrical casing containing an explosive charge and a bullet; fired from a rifle or handgun	Cause_harm
+cartwheel	a wheel that has wooden spokes and a metal rim	Cause_motion
+cashmere	a soft fabric made from the wool of the Cashmere goat	None of above
+casket	box in which a corpse is buried or cremated	Containing
+cassette	a container that holds a magnetic tape used for recording or playing sound or video	Perception_experience
+catalog	a book or pamphlet containing an enumeration of things	Reading_activity
+cauldron	a very large pot that is used for boiling	Cooking_creation
+ceiling	the overhead upper surface of a covered space	Protecting
+cello	a large stringed instrument; seated player holds it upright while playing	Performing_arts
+cellophane	a transparent paperlike product that is impervious to moisture and used to wrap candy or cigarettes etc.	Protecting
+cement	concrete pavement is sometimes referred to as cement	Building
+chainsaw	portable power saw; teeth linked to form an endless chain	Cutting
+chair	a seat for one person, with a support for the back	Supporting
+chairlift	a ski lift on which riders (skiers or sightseers) are seated and carried up or down a mountainside; seats are hung from an endless overhead cable	Bringing
+chalice	a bowl-shaped drinking vessel; especially the Eucharistic cup	Containing
+chalkboard	sheet of slate; for writing with chalk	Text_creation
+chandelier	branched lighting fixture; often ornate; hangs from the ceiling	Light_movement
+chariot	a light four-wheel horse-drawn ceremonial carriage	Self_motion
+checkerboard	a board having 64 squares of two alternating colors	Competition
+cheeseboard	tray on which cheeses are served	Supporting
+cheesecloth	a coarse loosely woven cotton gauze; originally used to wrap cheeses	Protecting
+chessboard	a checkerboard used to play chess	Competition
+chinaware	dishware made of high quality porcelain	Ingestion
+chopstick	one of a pair of slender sticks used as oriental tableware to eat food with	Ingestion
+chute	rescue equipment consisting of a device that fills with air and retards your fall	Self_motion
+cinema	a medium that disseminates moving pictures	Perception_experience
+cleaver	a butcher's knife having a large square blade	Cutting
+clipboard	a small writing board with a clip at the top for holding papers	Text_creation
+cloak	anything that covers or conceals	Eclipse
+clock	a timepiece that shows the time of day	Dimension
+cloth	artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers	None of above
+clothes	clothing in general	Wearing
+clothesline	a cord on which clothes are hung to dry	Supporting
+coat	an outer garment that has sleeves and covers the body from shoulder down; worn outdoors	Wearing
+cobblestone	rectangular paving stone with curved top; once used to make roads	Building
+cobweb	a fabric so delicate and transparent as to resemble a web of a spider	None of above
+coffeepot	tall pot in which coffee is brewed	Cooking_creation
+coffin	box in which a corpse is buried or cremated	Containing
+cogwheel	a toothed wheel that engages another toothed mechanism in order to change the speed or direction of transmitted motion	Cause_motion
+collage	a paste-up made by sticking together pieces of paper or photographs to form an artistic image	Perception_experience
+collar	a band that fits around the neck and is usually folded over	Wearing
+commode	a plumbing fixture for defecation and urination	Excreting
+compass	navigational instrument for finding directions	Dimension
+computer	a machine for performing calculations automatically	None of above
+condom	contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse	Protecting
+cone	any cone-shaped artifact	None of above
+container	any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)	Containing
+cookware	a kitchen utensil made of material that does not melt easily; used for cooking	Cooking_creation
+copier	apparatus that makes copies of typed, written or drawn material	Create_representation
+copybook	a book containing models of good penmanship; used in teaching penmanship	Education_teaching
+corduroy	a cut pile fabric with vertical ribs; usually made of cotton	None of above
+corkscrew	a bottle opener that pulls corks	Closure
+costume	the attire worn in a play or at a fancy dress ball	Wearing
+cot	a sheath worn to protect a finger	Protecting
+couch	an upholstered seat for more than one person	Supporting
+cowbell	a bell hung around the neck of cow so that the cow can be easily located	Make_noise
+cradle	a baby bed with sides and rockers	Sleep
+crate	a rugged box (usually made of wood); used for shipping	Containing
+crayon	writing implement consisting of a colored stick of composition wax used for writing and drawing	Create_representation
+crib	baby bed with high sides made of slats	Sleep
+crossbar	a horizontal bar that goes across something	None of above
+crossbeam	a horizontal beam that extends across something	Supporting
+crossbow	a bow fixed transversely on a wooden stock grooved to direct the arrow (quarrel)	Cause_harm
+crowbar	a heavy iron lever with one end forged into a wedge	Cause_motion
+crutch	a wooden or metal staff that fits under the armpit and reaches to the ground; used by disabled person while walking	Supporting
+cufflink	jewelry consisting of one of a pair of linked buttons used to fasten the cuffs of a shirt	Wearing
+cup	a small open container usually used for drinking; usually has a handle	Ingestion
+curtain	hanging cloth used as a blind (especially for a window)	Eclipse
+cushion	a mechanical damper; absorbs energy of sudden impulses	Protecting
+cutlery	a cutting implement; a tool for cutting	Cutting
+dagger	a short knife with a pointed blade used for piercing or stabbing	Cause_harm
+dart	a small narrow pointed missile that is thrown or shot	Cause_harm
+dashboard	protective covering consisting of a panel to protect people from the splashing water or mud etc.	Protecting
+deadbolt	the part of a lock that is engaged or withdrawn with a key	Protecting
+decal	either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface	None of above
+deck	any of various platforms built into a vessel	Supporting
+defibrillator	an electronic device that administers an electric shock of preset voltage to the heart through the chest wall in an attempt to restore the normal rhythm of the heart during ventricular fibrillation	Cure
+denim	(usually plural) close-fitting trousers of heavy denim for manual work or casual wear	Wearing
+denture	a dental appliance that artificially replaces missing teeth	Cure
+desk	a piece of furniture with a writing surface and usually drawers or other compartments	Supporting
+detonator	a mechanical or electrical explosive device or a small amount of explosive; can be used to initiate the reaction of a disrupting explosive	Cause_harm
+diamond	a transparent piece of diamond that has been cut and polished and is valued as a precious gem	Wearing
+diaper	garment consisting of a folded cloth drawn up between the legs and fastened at the waist; worn by infants to catch excrement	Wearing
+dice	a small cube with 1 to 6 spots on the six faces; used in gambling to generate random numbers	None of above
+dildo	a vibrating device that substitutes for an erect penis to provide vaginal stimulation	None of above
+dinnerware	the tableware (plates and platters and serving bowls etc.) used in serving a meal	Ingestion
+diorama	a picture (or series of pictures) representing a continuous scene	Perception_experience
+disc	sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove	Create_representation
+dish	a piece of dishware normally used as a container for holding or serving food	Ingestion
+dishrag	a cloth for washing dishes	Removing
+dishtowel	a towel for drying dishes	Cause_to_be_dry
+dishware	tableware (eating and serving dishes) collectively	Ingestion
+dishwasher	a machine for washing dishes	Removing
+doll	a small replica of a person; used as a toy	None of above
+doorbell	a push button at an outer door that gives a ringing or buzzing signal when pushed	Make_noise
+doorjamb	a jamb for a door	Supporting
+doorknocker	a device (usually metal and ornamental) attached by a hinge to a door	Make_noise
+doornail	a nail with a large head; formerly used to decorate doors	None of above
+doorpost	a jamb for a door	Supporting
+doorstep	the sill of a door; a horizontal piece of wood or stone that forms the bottom of a doorway and offers support when passing through a doorway	Supporting
+doorstop	a stop that keeps open doors from moving	Inhibit_movement
+drape	hanging cloth used as a blind (especially for a window)	Eclipse
+drawers	underpants worn by men	Wearing
+dress	a one-piece garment for a woman; has skirt and bodice	Wearing
+dresser	furniture with drawers for keeping clothes	Containing
+drum	a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end	Make_noise
+dryer	an appliance that removes moisture	Cause_to_be_dry
+drywall	a wide flat board used to cover walls or partitions; made from plaster or wood pulp or other materials and used primarily to form the interior walls of houses	Protecting
+dumbbell	an exercising weight; two spheres connected by a short bar that serves as a handle	Competition
+dumbwaiter	a small elevator used to convey food (or other goods) from one floor of a building to another	Bringing
+dustbin	a bin that holds rubbish until it is collected	Containing
+duvet	a soft quilt usually filled with the down of the eider	Sleep
+earphone	electro-acoustic transducer for converting electric signals into sounds; it is held over or inserted into the ear	Perception_experience
+earpiece	electro-acoustic transducer for converting electric signals into sounds; it is held over or inserted into the ear	Perception_experience
+earplug	an earphone that is inserted into the ear canal	Protecting
+earring	jewelry to ornament the ear; usually clipped to the earlobe or fastened through a hole in the lobe	Wearing
+easel	an upright tripod for displaying something (usually an artist's canvas)	Supporting
+eggbeater	an aircraft without wings that obtains its lift from the rotation of overhead blades	Self_motion
+elevator	lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building	Bringing
+engine	motor that converts thermal energy to mechanical work	Cause_motion
+envelope	a flat (usually rectangular) container for a letter, thin package, etc.	Containing
+equipment	an instrumentality needed for an undertaking or to perform a service	None of above
+eraser	an implement used to erase something	Removing
+eyeglass	lens for correcting defective vision in one eye; held in place by facial muscles	Perception_experience
+eyeglasses	optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision	Perception_experience
+eyeliner	makeup applied to emphasize the shape of the eyes	Wearing
+eyepiece	combination of lenses at the viewing end of optical instruments	Perception_experience
+fabric	artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers	None of above
+faceplate	a protective covering for the front of a machine or device (as a door lock or computer component)	Protecting
+fan	a device for creating a current of air by movement of a surface or surfaces	Cause_temperature_change
+featherbed	a mattress stuffed with feathers	Sleep
+fedora	a hat made of felt with a creased crown	Wearing
+feedbag	a canvas bag that is used to feed an animal (such as a horse); covers the muzzle and fastens at the top of the head	Ingestion
+ferry	a boat that transports people or vehicles across a body of water and operates on a regular schedule	Self_motion
+ferryboat	a boat that transports people or vehicles across a body of water and operates on a regular schedule	Self_motion
+fiddle	bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow	Make_noise
+figurine	a small carved or molded figure	Perception_experience
+film	a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement	Perception_experience
+filter	device that removes something from whatever passes through it	Removing
+firearm	a portable gun	Cause_harm
+fishhook	a sharp barbed hook for catching fish	Hunting
+fishnet	a net that will enclose fish when it is pulled in	Hunting
+flag	emblem usually consisting of a rectangular piece of cloth of distinctive design	None of above
+flagpole	surveying instrument consisting of a straight rod painted in bands of alternate red and white each one foot wide; used for sightings by surveyors	Perception_experience
+flagstone	stratified stone that splits into pieces suitable as paving stones	Building
+flamethrower	a weapon that squirts ignited fuel for several yards	Cause_harm
+flashbulb	a lamp for providing momentary light to take a photograph	Light_movement
+flashlight	a small portable battery-powered electric lamp	Light_movement
+flask	bottle that has a narrow neck	Containing
+flatware	tableware that is relatively flat and fashioned as a single piece	Ingestion
+floodlight	light that is a source of artificial illumination having a broad beam; used in photography	Light_movement
+floor	the inside lower horizontal surface (as of a room, hallway, tent, or other structure)	Supporting
+flowerpot	a container in which plants are cultivated	Containing
+flute	a high-pitched woodwind instrument; a slender tube closed at one end with finger holes on one end and an opening near the closed end across which the breath is blown	Make_noise
+flyswatter	an implement with a flat part (of mesh or plastic) and a long handle; used to kill insects	Hunting
+flytrap	a trap for catching flies	Hunting
+folder	a small book usually having a paper cover	Reading_activity
+footboard	a narrow platform on which to stand or brace the feet	Supporting
+footgear	covering for a person's feet	Wearing
+footlocker	a trunk for storing personal possessions; usually kept at the foot of a bed (as in a barracks)	Containing
+footplate	the platform in the cab of a locomotive on which the engineer stands to operate the controls	Supporting
+footrest	a low seat or a stool to rest the feet of a seated person	Supporting
+footstool	a low seat or a stool to rest the feet of a seated person	Supporting
+footwear	clothing worn on a person's feet	Wearing
+forceps	an extractor consisting of a pair of pincers used in medical treatment (especially for the delivery of babies)	None of above
+fork	cutlery used for serving and eating food	Ingestion
+frosting	a flavored sugar topping used to coat and decorate cakes	Ingestion
+furniture	furnishings that make a room or other area ready for occupancy	None of above
+fuse	an electrical device that can interrupt the flow of electrical current when it is overloaded	Protecting
+futon	mattress consisting of a pad of cotton batting that is used for sleeping on the floor or on a raised frame	Sleep
+gadget	a device or control that is very useful for a particular job	None of above
+gargoyle	a spout that terminates in a grotesquely carved figure of a person or animal	Cause_fluidic_motion
+garment	an article of clothing	Wearing
+garter	a band (usually elastic) worn around the leg to hold up a stocking (or around the arm to hold up a sleeve)	Wearing
+gauze	(medicine) bleached cotton cloth of plain weave used for bandages and dressings	Cure
+gavel	a small mallet used by a presiding officer or a judge	Make_noise
+gearshift	a mechanical device for engaging and disengaging gears	Cause_motion
+glasses	optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision	Perception_experience
+glassware	an article of tableware made of glass	Ingestion
+goalpost	one of a pair of posts (usually joined by a crossbar) that are set up as a goal at each end of a playing field	None of above
+goblet	a drinking glass with a base and stem	Ingestion
+goggles	tight-fitting spectacles worn to protect the eyes	Protecting
+gondola	a low flat-bottomed freight car with fixed sides but no roof	Self_motion
+gourd	bottle made from the dried shell of a bottle gourd	Containing
+gown	a woman's dress, usually with a close-fitting bodice and a long flared skirt, often worn on formal occasions	Wearing
+graffiti	a rude decoration inscribed on rocks or walls	Perception_experience
+gramophone	an antique record player; the sound of the vibrating needle is amplified acoustically	Make_noise
+grater	utensil with sharp perforations for shredding foods (as vegetables or cheese)	Cause_to_fragment
+grenade	a small explosive bomb thrown by hand or fired from a missile	Cause_harm
+grout	a thin mortar that can be poured and used to fill cracks in masonry or brickwork	Building
+guitar	a stringed instrument usually having six strings; played by strumming or plucking	Make_noise
+gun	a weapon that discharges a missile at high velocity (especially from a metal tube or barrel)	Cause_harm
+gunnysack	a bag made of burlap	Containing
+gurney	a metal stretcher with wheels	Bringing
+hacksaw	saw used with one hand for cutting metal	Cutting
+hairbrush	a brush used to groom a person's hair	Grooming
+hairnet	a small net that some women wear over their hair to keep it in place	Wearing
+hairpiece	a covering or bunch of human or artificial hair used for disguise or adornment	Wearing
+hairpin	a double pronged pin used to hold women's hair in place	Attaching
+handbag	a container used for carrying money and small personal items or accessories (especially by women)	Containing
+handcart	wheeled vehicle that can be pushed by a person; may have one or two or four wheels	Bringing
+handgun	a firearm that is held and fired with one hand	Cause_harm
+handlebar	the shaped bar used to steer a bicycle	Cause_motion
+handsaw	a saw used with one hand for cutting wood	Cutting
+hankie	a square piece of cloth used for wiping the eyes or nose or as a costume accessory	Grooming
+hanky	a square piece of cloth used for wiping the eyes or nose or as a costume accessory	Grooming
+hardcover	a book with cardboard or cloth or leather covers	Reading_activity
+hardware	major items of military weaponry (as tanks or missile)	Cause_harm
+harmonica	a small rectangular free-reed instrument having a row of free reeds set back in air holes and played by blowing into the desired hole	Make_noise
+harp	a chordophone that has a triangular frame consisting of a sounding board and a pillar and a curved neck; the strings stretched between the neck and the soundbox are plucked with the fingers	Make_noise
+harpoon	a spear with a shaft and barbed point for throwing; used for catching large fish or whales; a strong line is attached to it	Hunting
+harpsichord	a clavier with strings that are plucked by plectra mounted on pivots	Make_noise
+hat	headdress that protects the head from bad weather; has shaped crown and usually a brim	Wearing
+hatbox	a round piece of luggage for carrying hats	Containing
+hatchet	weapon consisting of a fighting ax; used by North American Indians	Cause_harm
+headband	a band worn around or over the head	Wearing
+headdress	clothing for the head	Wearing
+headgear	clothing for the head	Wearing
+headlight	a powerful light with reflector; attached to the front of an automobile or locomotive	Light_movement
+headphone	electro-acoustic transducer for converting electric signals into sounds; it is held over or inserted into the ear	Perception_experience
+hearse	a vehicle for carrying a coffin to a church or a cemetery; formerly drawn by horses but now usually a motor vehicle	Bringing
+heater	device that heats water or supplies warmth to a room	Cause_temperature_change
+helicopter	an aircraft without wings that obtains its lift from the rotation of overhead blades	Self_motion
+helmet	armor plate that protects the head	Protecting
+highchair	a chair for feeding a very young child; has four long legs and a footrest and a detachable tray	Supporting
+highlighter	a cosmetic used to highlight the eyes or cheekbones	Wearing
+hinge	a joint that holds two parts together so that one can swing relative to the other	Attaching
+hoe	a tool with a flat blade attached at right angles to a long handle	Cutting
+holster	a sheath (usually leather) for carrying a handgun	Containing
+hoopskirt	a skirt stiffened with hoops	Wearing
+horn	a noisemaker (as at parties or games) that makes a loud noise when you blow through it	Make_noise
+horseshoe	game equipment consisting of an open ring of iron used in playing horseshoes	None of above
+hose	socks and stockings and tights collectively (the British include underwear)	Wearing
+hosiery	socks and stockings and tights collectively (the British include underwear)	Wearing
+hotplate	a portable electric appliance for heating or cooking or keeping food warm	Cooking_creation
+hourglass	a sandglass that runs for sixty minutes	Dimension
+houseboat	a barge that is designed and equipped for use as a dwelling	Residence
+housecoat	a loose dressing gown for women	Wearing
+housetop	the roof of a house	Protecting
+hovercraft	a craft capable of moving over water or land on a cushion of air created by jet engines	Self_motion
+hubcap	cap that fits over the hub of a wheel	Protecting
+hydrant	a faucet for drawing water from a pipe or cask	Cause_fluidic_motion
+icebox	white goods in which food can be stored at low temperatures	Cause_temperature_change
+icepick	pick consisting of a steel rod with a sharp point; used for breaking up blocks of ice	Cause_to_fragment
+incubator	apparatus consisting of a box designed to maintain a constant temperature by the use of a thermostat; used for chicks or premature infants	Cause_temperature_change
+inhaler	a dispenser that produces a chemical vapor to be inhaled in order to relieve nasal congestion	Cure
+inkwell	a small well holding writing ink into which a pen can be dipped	Text_creation
+intercom	a communication system linking different rooms within a building or ship etc	Contacting
+jacket	a short coat	Wearing
+jackhammer	a hammer driven by compressed air	Cause_motion
+jar	a vessel (usually cylindrical) with a wide mouth and without handles	Containing
+jeep	a car suitable for traveling over rough terrain	Self_motion
+jet	an airplane powered by one or more jet engines	Self_motion
+jewel	a precious or semiprecious stone incorporated into a piece of jewelry	Wearing
+jewelry	an adornment (as a bracelet or ring or necklace) made of precious metals and set with gems (or imitation gems)	Wearing
+jigsaw	a portable power saw with a reciprocating blade; can be used with a variety of blades depending on the application and kind of cut; generally have a plate that rides on the surface that is being cut	Cutting
+joystick	a lever used by a pilot to control the ailerons and elevators of an airplane	Cause_motion
+jug	a large bottle with a narrow mouth	Containing
+jukebox	a cabinet containing an automatic record player; records are played by inserting a coin	Make_noise
+jumpsuit	one-piece garment fashioned after a parachutist's uniform	Wearing
+kayak	a small canoe consisting of a light frame made watertight with animal skins; used by Eskimos	Self_motion
+kazoo	a toy wind instrument that has a membrane that makes a sound when you hum into the mouthpiece	Make_noise
+kerchief	a square scarf that is folded into a triangle and worn over the head or about the neck	Wearing
+kettle	a metal pot for stewing or boiling; usually has a lid	Cooking_creation
+kettledrum	a large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it	Make_noise
+key	metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated	Closure
+keyboard	device consisting of a set of keys on a piano or organ or typewriter or typesetting machine or computer or the like	Text_creation
+keyhole	the hole where a key is inserted	None of above
+keypad	a keyboard that is a data input device for computers; arrangement of keys is modelled after the typewriter keyboard	Text_creation
+kilt	a knee-length pleated tartan skirt worn by men as part of the traditional dress in the Highlands of northern Scotland	Wearing
+kitchenware	hardware utensils for use in a kitchen	Cooking_creation
+knapsack	a bag carried by a strap on your back or shoulder	Containing
+knickers	trousers ending above the knee	Wearing
+knife	edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle	Cutting
+knuckles	a small metal weapon; worn over the knuckles on the back of the hand	Cause_harm
+lace	a cord that is drawn through eyelets or around hooks in order to draw together two edges (as of a shoe or garment)	Closure
+lamp	an artificial source of visible illumination	Light_movement
+lamppost	a metal post supporting an outdoor lamp (such as a streetlight)	Supporting
+landline	a telephone line that travels over terrestrial circuits	Contacting
+lantern	light in a transparent protective case	Light_movement
+lapel	lap at the front of a coat; continuation of the coat collar	Wearing
+laptop	a portable computer small enough to use in your lap	None of above
+laser	an acronym for light amplification by stimulated emission of radiation; an optical device that produces an intense monochromatic beam of coherent light	Light_movement
+latch	spring-loaded doorlock that can only be opened from the outside with a key	Protecting
+laundry	garments or white goods that can be cleaned by laundering	None of above
+leash	restraint consisting of a rope (or light chain) used to restrain an animal	Inhibit_movement
+lens	a transparent optical device used to converge or diverge transmitted light and to form images	Perception_experience
+leotard	a tight-fitting garment of stretchy material that covers the body from the shoulders to the thighs (and may have long sleeves or legs reaching down to the ankles); worn by ballet dancers and acrobats for practice or performance	Wearing
+lever	a rigid bar pivoted about a fulcrum	Cause_motion
+lightbulb	electric lamp consisting of a transparent or translucent glass housing containing a wire filament (usually tungsten) that emits light when heated by electricity	Light_movement
+limo	large luxurious car; usually driven by a chauffeur	Self_motion
+limousine	large luxurious car; usually driven by a chauffeur	Self_motion
+linen	a fabric woven with fibers from the flax plant	None of above
+lingerie	women's underwear and nightclothes	Wearing
+linoleum	a floor covering	Protecting
+lipstick	makeup that is used to color the lips	Wearing
+locket	a small ornamental case; usually contains a picture or a lock of hair and is worn on a necklace	Containing
+locomotive	a wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks	Self_motion
+loincloth	a garment that provides covering for the loins	Wearing
+longboat	the largest boat carried by a merchant sailing vessel	Self_motion
+longbow	a powerful wooden bow drawn by hand; usually 5-6 feet long; used in medieval England	Cause_harm
+lotion	any of various cosmetic preparations that are applied to the skin	Wearing
+loudspeaker	electro-acoustic transducer that converts electrical signals into sounds loud enough to be heard at a distance	Make_noise
+loveseat	small sofa that seats two people	Supporting
+luggage	cases used to carry belongings when traveling	Containing
+lumber	the wood of trees cut and prepared for use as building material	Building
+machinery	machines or machine systems collectively	None of above
+magazine	a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it	Reading_activity
+mailbag	pouch used in the shipment of mail	Containing
+mailbox	a private box for delivery of mail	Containing
+mainsail	the lowermost sail on the mainmast	Cause_motion
+mallet	a sports implement with a long handle and a head like a hammer; used in sports (polo or croquet) to hit a ball	Cause_motion
+mandolin	a stringed instrument related to the lute, usually played with a plectrum	Make_noise
+manger	a container (usually in a barn or stable) from which cattle or horses feed	Containing
+map	a diagrammatic representation of the earth's surface (or part of it)	Perception_experience
+marionette	a small figure of a person operated from above with strings by a puppeteer	Performing_arts
+mascara	makeup that is used to darken and thicken the eye lashes	Wearing
+mask	a covering to disguise or conceal the face	Protecting
+mast	a vertical spar for supporting sails	Supporting
+mat	a thick flat pad used as a floor covering	Protecting
+matchbook	a small folder of paper safety matches	Setting_fire
+matchbox	a box for holding matches	Containing
+matchstick	a short thin stick of wood used in making matches	Setting_fire
+mattress	a large thick pad filled with resilient material and often incorporating coiled springs, used as a bed or part of a bed	Sleep
+maypole	a vertical pole or post decorated with streamers that can be held by dancers celebrating May Day	None of above
+megaphone	a cone-shaped acoustic device held to the mouth to intensify and direct the human voice	Make_noise
+merchandise	commodities offered for sale	Commercial_transaction
+microchip	electronic equipment consisting of a small crystal of a silicon semiconductor fabricated to carry out a number of electronic functions in an integrated circuit	None of above
+microcomputer	a small digital computer based on a microprocessor and designed to be used by one person at a time	None of above
+microscope	magnifier of the image of small objects	Perception_experience
+minibus	a light bus (4 to 10 passengers)	Self_motion
+miniskirt	a very short skirt	Wearing
+minivan	a small box-shaped passenger van; usually has removable seats; used as a family car	Self_motion
+mirror	polished surface that forms images by reflecting light	Perception_experience
+missile	a rocket carrying a warhead of conventional or nuclear explosives; may be ballistic or directed by remote control	Cause_harm
+mitten	glove that encases the thumb separately and the other four fingers together	Wearing
+moat	ditch dug as a fortification and usually filled with water	Protecting
+moccasin	soft leather shoe; originally worn by Native Americans	Wearing
+moneybag	a drawstring bag for holding money	Containing
+mop	cleaning implement consisting of absorbent material fastened to a handle; for cleaning floors	Removing
+motor	machine that converts other forms of energy into mechanical energy and so imparts motion	Cause_motion
+motorbike	small motorcycle with a low frame and small wheels and elevated handlebars	Self_motion
+motorboat	a boat propelled by an internal-combustion engine	Self_motion
+motorbus	a vehicle carrying many passengers; used for public transport	Self_motion
+motorcar	a motor vehicle with four wheels; usually propelled by an internal combustion engine	Self_motion
+motorcycle	a motor vehicle with two wheels and a strong frame	Self_motion
+mound	(baseball) the slight elevation on which the pitcher stands	Supporting
+mousetrap	a trap for catching mice	Hunting
+movie	a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement	Perception_experience
+mower	garden tool for mowing grass on lawns	Cutting
+muffler	a tubular acoustic device inserted in the exhaust system that is designed to reduce noise	Eclipse
+mulch	a protective covering of rotting vegetable matter spread to reduce evaporation and soil erosion	Protecting
+multivitamin	a pill or tablet containing several vitamins	Cure
+mural	a painting that is applied to a wall surface	Perception_experience
+musket	a muzzle-loading shoulder gun with a long barrel; formerly used by infantrymen	Cause_harm
+muzzle	the open circular discharging end of a gun	Closure
+napkin	a small piece of table linen that is used to wipe the mouth and to cover the lap in order to protect clothing	Grooming
+neckband	a band around the collar of a garment	Wearing
+neckerchief	a kerchief worn around the neck	Wearing
+necklace	jewelry consisting of a cord or chain (often bearing gems) worn about the neck as an ornament (especially by women)	Wearing
+neckline	the line formed by the edge of a garment around the neck	Wearing
+necktie	neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front	Wearing
+neckwear	articles of clothing worn about the neck	Wearing
+net	a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange	None of above
+newspaper	a daily or weekly publication on folded sheets; contains news and articles and advertisements	Reading_activity
+nightdress	lingerie consisting of a loose dress designed to be worn in bed by women	Wearing
+nightgown	lingerie consisting of a loose dress designed to be worn in bed by women	Wearing
+nightshirt	nightclothes worn by men	Wearing
+nightstick	a short stout club used primarily by policemen	Cause_harm
+nightwear	garments designed to be worn in bed	Wearing
+noose	a trap for birds or small mammals; often has a slip noose	Hunting
+notebook	a book with blank pages for recording notes or memoranda	Text_creation
+nozzle	a projecting spout from which a fluid is discharged	Cause_fluidic_motion
+nutcracker	a compound lever used to crack nuts open	Cause_to_fragment
+oar	an implement used to propel or steer a boat	Cause_motion
+odometer	a meter that shows mileage traversed	Dimension
+oilcan	a can with a long nozzle to apply oil to machinery	Containing
+oscilloscope	electronic equipment that provides visual images of varying electrical quantities	Perception_experience
+oven	kitchen appliance used for baking or roasting	Cooking_creation
+overcoat	a heavy coat worn over clothes in winter	Wearing
+padding	artifact consisting of soft or resilient material used to fill or give shape or protect or add comfort	Protecting
+paddle	small wooden bat with a flat surface; used for hitting balls in various games	Cause_motion
+pager	an electronic device that generates a series of beeps when the person carrying it is being paged	Contacting
+pail	a roughly cylindrical vessel that is open at the top	Containing
+paintball	a capsule filled with water-soluble dye used as a projectile in playing the game of paintball	Competition
+paintbox	a box containing a collection of cubes or tubes of artists' paint	Containing
+paintbrush	a brush used as an applicator (to apply paint)	Create_representation
+painting	graphic art consisting of an artistic composition made by applying paints to a surface	Perception_experience
+pajama	a pair of loose trousers tied by a drawstring around the waist; worn by men and women in some Asian countries	Wearing
+pamphlet	a small book usually having a paper cover	Reading_activity
+pan	cooking utensil consisting of a wide metal vessel	Cooking_creation
+pants	underpants worn by women	Wearing
+pantsuit	a pair of pants and a matching jacket worn by women	Wearing
+pantyhose	a woman's tights consisting of underpants and stockings	Wearing
+paperback	a book with paper covers	Reading_activity
+paperclip	a wire or plastic clip for holding sheets of paper together	Attaching
+paperweight	a weight used to hold down a stack of papers	Inhibit_movement
+parachute	rescue equipment consisting of a device that fills with air and retards your fall	Self_motion
+parcel	a wrapped container	Containing
+parka	a kind of heavy jacket (`windcheater' is a British term)	Wearing
+patch	a small contrasting part of something	None of above
+pavement	the paved surface of a thoroughfare	Supporting
+pedometer	measuring instrument for recording the number of steps taken in walking	Dimension
+peephole	a hole (in a door or an oven etc) through which you can peep	Perception_experience
+pegboard	a board perforated with regularly spaced holes into which pegs can be fitted	Attaching
+pen	a writing implement with a point from which ink flows	Text_creation
+pencil	a thin cylindrical pointed writing implement; a rod of marking substance encased in wood	Text_creation
+pendant	an adornment that hangs from a piece of jewelry (necklace or earring)	Wearing
+pendulum	an apparatus consisting of an object mounted so that it swings freely under the influence of gravity	None of above
+penlight	a small flashlight resembling a fountain pen	Light_movement
+periscope	an optical instrument that provides a view of an otherwise obstructed field	Perception_experience
+petticoat	undergarment worn under a skirt	Wearing
+phone	electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds	Contacting
+phonograph	machine in which rotating records cause a stylus to vibrate and the vibrations are amplified acoustically or electronically	Make_noise
+photo	a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material	Perception_experience
+photocopier	a copier that uses photographic methods of making copies	Create_representation
+photocopy	a photographic copy of written or printed or graphic work	Create_representation
+photograph	a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material	Perception_experience
+photomontage	a montage that uses photographic images	Perception_experience
+piano	a keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds	Make_noise
+pickaxe	a heavy iron tool with a wooden handle and a curved head that is pointed on both ends	Cutting
+picture	a visual representation (of an object or scene or person or abstraction) produced on a surface	Perception_experience
+pill	something that resembles a tablet of medicine in shape or size	Cure
+pillbox	a small round woman's hat	Wearing
+pillow	a cushion to support the head of a sleeping person	Sleep
+pillowcase	bed linen consisting of a cover for a pillow	Protecting
+pin	a piece of jewelry that is pinned onto the wearer's garment	Wearing
+pincushion	a small stiff cushion into which pins are stuck ready for use	Attaching
+pinstripe	a suit made from a fabric with very thin stripes	Wearing
+pistol	a firearm that is held and fired with one hand	Cause_harm
+pitchfork	a long-handled hand tool with sharp widely spaced prongs for lifting and pitching hay	Agriculture
+plane	an aircraft that has a fixed wing and is powered by propellers or jets	Self_motion
+plank	a stout length of sawn timber; made in a wide variety of sizes and used for many purposes	None of above
+plaster	a mixture of lime or gypsum with sand and water; hardens into a smooth solid; used to cover walls and ceilings	Building
+platter	a large shallow dish used for serving food	Ingestion
+playhouse	plaything consisting of a small model of a house that children can play inside of	None of above
+pliers	a gripping hand tool with two hinged arms and (usually) serrated jaws	None of above
+pocket	a small pouch inside a garment for carrying small articles	Containing
+pocketknife	a knife with a blade that folds into the handle; suitable for carrying in the pocket	Cutting
+podium	a platform raised above the surrounding level to give prominence to the person on it	Supporting
+pole	a long (usually round) rod of wood or metal or plastic	None of above
+poncho	a blanket-like cloak with a hole in the center for the head	Wearing
+pontoon	(nautical) a floating structure (as a flat-bottomed boat) that serves as a dock or to support a bridge	Supporting
+pool	an excavation that is (usually) filled with water	Containing
+popgun	plaything consisting of a toy gun that makes a popping sound	None of above
+porcelain	ceramic ware made of a more or less translucent ceramic	None of above
+pot	metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid	Cooking_creation
+pottery	ceramic ware made from clay and baked in a kiln	Cooking_creation
+pouch	a small or medium size container for holding or carrying things	Containing
+powerboat	a boat propelled by an internal-combustion engine	Self_motion
+projector	an optical device for projecting a beam of light	Perception_experience
+propeller	a mechanical device that rotates to push against air or water	Cause_motion
+pulley	a simple machine consisting of a wheel with a groove in which a rope can run to change the direction or point of application of a force applied to the rope	Cause_motion
+puppet	a small figure of a person operated from above with strings by a puppeteer	Performing_arts
+purse	a container used for carrying money and small personal items or accessories (especially by women)	Containing
+quilt	bedding made of two layers of cloth filled with stuffing and stitched together	Sleep
+racquetball	the ball used in playing the game of racquetball	Competition
+radar	measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects	Dimension
+radio	medium for communication	Contacting
+raft	a flat float (usually made of logs or planks) that can be used for transport or as a platform for swimmers	Self_motion
+rafter	one of several parallel sloping beams that support a roof	Supporting
+rag	a small piece of cloth or paper	None of above
+railcar	a wheeled vehicle adapted to the rails of railroad	Self_motion
+raincoat	a water-resistant coat	Protecting
+ratchet	mechanical device consisting of a toothed wheel or rack engaged with a pawl that permits it to move in only one direction	Cause_motion
+razor	edge tool used in shaving	Grooming
+receptacle	a container that is used to put or keep things in	Containing
+recliner	an armchair whose back can be lowered and foot can be raised to allow the sitter to recline in it	Supporting
+refrigerator	white goods in which food can be stored at low temperatures	Cause_temperature_change
+respirator	a breathing device for administering long-term artificial respiration	Cure
+revolver	a pistol with a revolving cylinder (usually having six chambers for bullets)	Cause_harm
+rib	support resembling the rib of an animal	None of above
+rickshaw	a small two-wheeled cart for one passenger; pulled by one person	Self_motion
+rifle	a shoulder firearm with a long barrel and a rifled bore	Cause_harm
+robe	any loose flowing garment	Wearing
+robot	a mechanism that can move automatically	None of above
+rocket	any vehicle self-propelled by a rocket engine	Self_motion
+roof	a protective covering that covers or forms the top of a building	Protecting
+roofing	material used to construct a roof	Building
+rope	a strong line	None of above
+rowboat	a small boat of shallow draft with cross thwarts for seats and rowlocks for oars with which it is propelled	Self_motion
+rudder	a hinged vertical airfoil mounted at the tail of an aircraft and used to make horizontal course changes	Cause_motion
+rug	floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)	Protecting
+runway	a bar or pair of parallel bars of rolled steel making the railway along which railroad cars or other vehicles can roll	Cause_motion
+sack	a bag made of paper or plastic for holding customer's purchases	Containing
+sackcloth	a garment made of coarse sacking; formerly worn as an indication of remorse	Wearing
+saddle	a seat for the rider of a horse or camel	Supporting
+saddlebag	a large bag (or pair of bags) hung over a saddle	Containing
+sailboat	a small sailing vessel; usually with a single mast	Self_motion
+saltshaker	a shaker with a perforated top for sprinkling salt	Containing
+sandal	a shoe consisting of a sole fastened by straps to the foot	Wearing
+sarong	a loose skirt consisting of brightly colored fabric wrapped around the body; worn by both women and men in the South Pacific	Wearing
+satchel	luggage consisting of a small case with a flat bottom and (usually) a shoulder strap	Containing
+satellite	man-made equipment that orbits around the earth or the moon	None of above
+satin	a smooth fabric of silk or rayon; has a glossy face and a dull back	None of above
+saucepan	a deep pan with a handle; used for stewing or boiling	Cooking_creation
+sawmill	a large sawing machine	Cutting
+scabbard	a sheath for a sword or dagger or bayonet	Containing
+scaffold	a platform from which criminals are executed (hanged or beheaded)	Cause_harm
+scaffolding	a system of scaffolds	Supporting
+scalpel	a thin straight surgical knife used in dissection and surgery	Cutting
+scarecrow	an effigy in the shape of a man to frighten birds away from seeds	Protecting
+scarf	a garment worn around the head or neck or shoulders for warmth or decoration	Wearing
+schoolbag	a bag for carrying school books and supplies	Containing
+schoolbook	a book prepared for use in schools or colleges	Education_teaching
+scissors	an edge tool having two crossed pivoting blades	Cutting
+scooter	a motorboat resembling a motor scooter	Self_motion
+scrapbook	an album into which clippings or notes or pictures can be pasted	Reading_activity
+screen	a white or silvered surface where pictures can be projected for viewing	Perception_experience
+sculpture	a three-dimensional work of plastic art	Perception_experience
+seaplane	an airplane that can land on or take off from water	Self_motion
+searchlight	a light source with reflectors that projects a beam of light in a particular direction	Light_movement
+sedan	a car that is closed and that has front and rear seats and two or four doors	Self_motion
+seesaw	a plaything consisting of a board balanced on a fulcrum; the board is ridden up and down by children at either end	Competition
+seismograph	a measuring instrument for detecting and measuring the intensity and direction and duration of movements of the ground (as an earthquake)	Dimension
+sharkskin	a smooth crisp fabric	None of above
+sharpener	any implement that is used to make something (an edge or a point) sharper	None of above
+shawl	cloak consisting of an oblong piece of cloth used to cover the head and shoulders	Wearing
+shears	large scissors with strong blades	Cutting
+shelf	a support that consists of a horizontal surface for holding objects	Containing
+shell	ammunition consisting of a cylindrical metal casing containing an explosive charge and a projectile; fired from a large gun	Cause_harm
+shield	a protective covering or structure	Protecting
+shingle	building material used as siding or roofing	Building
+ship	a vessel that carries passengers or freight	Self_motion
+shirt	a garment worn on the upper half of the body	Wearing
+shoe	footwear shaped to fit the foot (below the ankle) with a flexible upper of leather or plastic and a sole and heel of heavier material	Wearing
+shoelace	a lace used for fastening shoes	Closure
+shoestring	a lace used for fastening shoes	Closure
+shorts	trousers that end at or above the knee	Wearing
+shotgun	firearm that is a double-barreled smoothbore shoulder weapon for firing shot at short ranges	Cause_harm
+shower	a plumbing fixture that sprays water over you	Grooming
+showerhead	a perforated nozzle that showers water on a bather	Cause_fluidic_motion
+shrapnel	shell containing lead pellets that explodes in flight	Cause_harm
+shredder	a device that shreds documents (usually in order to prevent the wrong people from reading them)	Cause_to_fragment
+shuttle	badminton equipment consisting of a ball of cork or rubber with a crown of feathers	Competition
+sickle	an edge tool for cutting grass or crops; has a curved blade and a short handle	Cutting
+sidewall	the side of an automobile tire	None of above
+sieve	a strainer for separating lumps from powdered material or grading particles	Removing
+sifter	a household sieve (as for flour)	Removing
+silk	a fabric made from the fine threads produced by certain insect larvae	None of above
+sill	structural member consisting of a continuous horizontal timber forming the lowest member of a framework or supporting structure	Supporting
+silverware	tableware made of silver or silver plate or pewter or stainless steel	Ingestion
+sink	plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe	Containing
+sketch	preliminary drawing for later elaboration	Create_representation
+sketchbook	a book containing sheets of paper on which sketches can be drawn	Create_representation
+ski	narrow wood or metal or plastic runners used in pairs for gliding over snow	Cause_motion
+skillet	a pan used for frying foods	Cooking_creation
+skirt	cloth covering that forms the part of a garment below the waist	Wearing
+skullcap	rounded brimless cap fitting the crown of the head	Wearing
+slacks	(usually in the plural) pants for casual wear	Wearing
+slate	(formerly) a writing tablet made of slate	Text_creation
+sledgehammer	a heavy long-handled hammer used to drive stakes or wedges	Cause_motion
+sleepwear	garments designed to be worn in bed	Wearing
+sleeve	the part of a garment that is attached at the armhole and that provides a cloth covering for the arm	Protecting
+sleigh	a vehicle mounted on runners and pulled by horses or dogs; for transportation over snow	Self_motion
+slingshot	a plaything consisting of a Y-shaped stick with elastic between the arms; used to propel small stones	Cause_harm
+slipcover	a removable fitted cloth covering for upholstered furniture	Protecting
+slipper	low footwear that can be slipped on and off easily; usually worn indoors	Wearing
+slug	a projectile that is fired from a gun	Cause_harm
+smock	a loose coverall (coat or frock) reaching down to the ankles	Wearing
+snapshot	an informal photograph; usually made with a small hand-held camera	Perception_experience
+sneaker	a canvas shoe with a pliable rubber sole	Wearing
+snorkel	breathing device consisting of a bent tube fitting into a swimmer's mouth and extending above the surface; allows swimmer to breathe while face down in the water	None of above
+snowman	a figure of a person made of packed snow	None of above
+snowmobile	tracked vehicle for travel on snow having skis in front	Self_motion
+snowplow	a vehicle used to push snow from roads	Removing
+snowsuit	a child's overgarment for cold weather	Wearing
+snuffbox	a small ornamental box for carrying snuff in your pocket	Containing
+sock	hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee	Wearing
+sofa	an upholstered seat for more than one person	Supporting
+softball	ball used in playing softball	Competition
+songbook	a book containing a collection of songs	Reading_activity
+spacecraft	a craft capable of traveling in outer space; technically, a satellite around the sun	Self_motion
+spacesuit	a pressure suit worn by astronauts while in outer space	Wearing
+spandex	an elastic synthetic fabric	None of above
+sparkler	diamonds	Wearing
+spatula	a turner with a narrow flexible blade	Cooking_creation
+speakerphone	a telephone with a microphone and loudspeaker; can be used without picking up a handset; several people can participate in a call at the same time	Contacting
+spear	a long pointed rod used as a tool or weapon	Cause_harm
+spectacles	optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision	Perception_experience
+speedboat	a fast motorboat	Self_motion
+speedometer	a meter fixed to a vehicle that measures and displays its speed	Dimension
+spittoon	a receptacle for spit (usually in a public place)	Containing
+spool	a winder around which thread or tape or film or other flexible materials can be wound	Attaching
+spoon	a piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food	Ingestion
+sprinkler	mechanical device that attaches to a garden hose for watering lawn or garden	Cause_fluidic_motion
+squeegee	T-shaped cleaning implement with a rubber edge across the top; drawn across a surface to remove water (as in washing windows)	Removing
+stagecoach	a large coach-and-four formerly used to carry passengers and mail on regular routes between towns	Self_motion
+stair	support consisting of a place to rest the foot while ascending or descending a stairway	Supporting
+stapler	a machine that inserts staples into sheets of paper in order to fasten them together	Attaching
+statue	a sculpture representing a human or animal	Perception_experience
+statuette	a small carved or molded figure	Perception_experience
+steamboat	a boat propelled by a steam engine	Self_motion
+steamship	a ship powered by one or more steam engines	Self_motion
+stencil	a sheet of material (metal, plastic, cardboard, waxed paper, silk, etc.) that has been perforated with a pattern (printing or a design); ink or paint can pass through the perforations to create the printed pattern on the surface below	Text_creation
+stereo	reproducer in which two microphones feed two or more loudspeakers to give a three-dimensional effect to the sound	Make_noise
+stethoscope	a medical instrument for listening to the sounds generated inside the body	Perception_experience
+stiletto	a small dagger with a tapered blade	Cause_harm
+stilt	a column of wood or steel or concrete that is driven into the ground to provide support for a structure	Supporting
+stirrup	support consisting of metal loops into which rider's feet go	Supporting
+stocking	close-fitting hosiery to cover the foot and leg; come in matched pairs (usually used in the plural)	Wearing
+stoneware	ceramic ware that is fired in high heat and vitrified and nonporous	None of above
+stool	a simple seat without a back or arms	Supporting
+stopwatch	a timepiece that can be started or stopped for exact timing (as of a race)	Dimension
+storybook	a book containing a collection of stories (usually for children)	Reading_activity
+stove	a kitchen appliance used for cooking food	Cooking_creation
+straightjacket	a garment similar to a jacket that is used to bind the arms tightly against the body as a means of restraining a violent person	Wearing
+strap	an elongated leather strip (or a strip of similar material) for binding things together or holding something in position	Attaching
+streetcar	a wheeled vehicle that runs on rails and is propelled by electricity	Self_motion
+streetlight	a lamp supported on a lamppost; for illuminating a street	Light_movement
+string	a lightweight cord	None of above
+stripe	an adornment consisting of a strip of a contrasting color or material	None of above
+strongbox	a strongly made box for holding money or valuables; can be locked	Protecting
+stucco	a plaster now made mostly from Portland cement and sand and lime; applied while soft to cover exterior walls or surfaces	Building
+submarine	a submersible warship usually armed with torpedoes	Cause_harm
+suit	a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color	Wearing
+suitcase	a portable rectangular container for carrying clothes	Containing
+sundial	timepiece that indicates the daylight hours by the shadow that the gnomon casts on a calibrated dial	Dimension
+sundress	a light loose sleeveless summer dress with a wide neckline and thin shoulder straps that expose the arms and shoulders	Wearing
+sunglass	a convex lens that focuses the rays of the sun; used to start a fire	Setting_fire
+sunglasses	spectacles that are darkened or polarized to protect the eyes from the glare of the sun	Protecting
+sunlamp	a mercury-vapor lamp used in medical or cosmetic treatments	Light_movement
+sunroof	an automobile roof having a sliding or raisable panel	Protecting
+sunscreen	a cream spread on the skin; contains a chemical (as PABA) to filter out ultraviolet light and so protect from sunburn	Protecting
+supertanker	the largest class of oil tankers	Bringing
+surfboard	a narrow buoyant board for riding surf	Self_motion
+suspender	elastic straps that hold trousers up (usually used in the plural)	Wearing
+swatch	a sample piece of cloth	None of above
+sweater	a crocheted or knitted garment covering the upper part of the body	Wearing
+sweatpants	loose-fitting trousers with elastic cuffs; worn by athletes	Wearing
+sweatshirt	cotton knit pullover with long sleeves worn during athletic activity	Wearing
+swimsuit	tight fitting garment worn for swimming	Wearing
+swimwear	tight fitting garment worn for swimming	Wearing
+sword	a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard	Cause_harm
+syringe	a medical instrument used to inject or withdraw fluids	Cause_fluidic_motion
+tablecloth	a covering spread over a dining table	Protecting
+tabletop	the top horizontal work surface of a table	Supporting
+tableware	articles for use at the table (dishes and silverware and glassware)	Ingestion
+tailcoat	formalwear consisting of full evening dress for men	Wearing
+taillight	lamp (usually red) mounted at the rear of a motor vehicle	Light_movement
+tambourine	a shallow drum with a single drumhead and with metallic disks in the sides	Make_noise
+tank	an enclosed armored military vehicle; has a cannon and moves on caterpillar treads	Cause_harm
+tanker	a cargo ship designed to carry crude oil in bulk	Bringing
+tape	a long thin piece of cloth or paper as used for binding or fastening	Attaching
+tarmac	a paving material of tar and broken stone; mixed in a factory and shaped during paving	Building
+tarp	waterproofed canvas	None of above
+tassel	adornment consisting of a bunch of cords fastened at one end	Wearing
+taxi	a car driven by a person whose job is to take passengers where they want to go in exchange for money	Self_motion
+taxicab	a car driven by a person whose job is to take passengers where they want to go in exchange for money	Self_motion
+teakettle	kettle for boiling water to make tea	Cooking_creation
+teapot	pot for brewing tea; usually has a spout and handle	Cooking_creation
+telegraph	apparatus used to communicate at a distance over a wire (usually in Morse code)	Contacting
+telephone	electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds	Contacting
+telescope	a magnifier of images of distant objects	Perception_experience
+television	broadcasting visual images of stationary or moving objects; ;  - Ernie Kovacs	Perception_experience
+terrycloth	a pile fabric (usually cotton) with uncut loops on both sides; used to make bath towels and bath robes	None of above
+textbook	a book prepared for use in schools or colleges	Reading_activity
+thermometer	measuring instrument for measuring temperature	Dimension
+thermos	vacuum flask that preserves temperature of hot or cold drinks	Cause_temperature_change
+thermostat	a regulator for automatically regulating temperature by starting or stopping the supply of heat	Cause_temperature_change
+thong	leather strip that forms the flexible part of a whip	Wearing
+throne	the chair of state for a monarch, bishop, etc.	Supporting
+thumbtack	a tack for attaching papers to a bulletin board or drawing board	Attaching
+tiara	a jeweled headdress worn by women on formal occasions	Wearing
+tightrope	tightly stretched rope or wire on which acrobats perform high above the ground	Supporting
+tights	skintight knit hose covering the body from the waist to the feet worn by acrobats and dancers and as stockings by women and girls	Wearing
+tile	a flat thin rectangular slab (as of fired clay or rubber or linoleum) used to cover surfaces	Building
+timber	the wood of trees cut and prepared for use as building material	Building
+timer	a timepiece that measures a time interval and signals its end	Dimension
+tinfoil	foil made of tin or an alloy of tin and lead	Cooking_creation
+tinsel	a showy decoration that is basically valueless	None of above
+toboggan	a long narrow sled without runners; boards curve upward in front	Self_motion
+toga	a one-piece cloak worn by men in ancient Rome	Wearing
+toiletry	artifacts used in making your toilet (washing and taking care of your body)	Grooming
+tomahawk	weapon consisting of a fighting ax; used by North American Indians	Cause_harm
+tongs	any of various devices for taking hold of objects; usually have two hinged legs with handles above and pointed hooks below	None of above
+tool	an implement used in the practice of a vocation	None of above
+toolbox	a box or chest or cabinet for holding hand tools	Containing
+toothbrush	small brush; has long handle; used to clean teeth	Grooming
+toothpick	pick consisting of a small strip of wood or plastic; used to pick food from between the teeth	Removing
+topcoat	a heavy coat worn over clothes in winter	Wearing
+torch	a light usually carried in the hand; consists of some flammable substance	Light_movement
+toupee	a small hairpiece to cover partial baldness	Wearing
+tourniquet	bandage that stops the flow of blood from an artery by applying pressure	Cure
+towel	a rectangular piece of absorbent cloth (or paper) for drying or wiping	Removing
+towline	(nautical) a rope used in towing	Attaching
+toy	an artifact designed to be played with	None of above
+tractor	a wheeled vehicle with large wheels; used in farming and other applications	Self_motion
+train	public transport provided by a line of railway cars coupled together and drawn by a locomotive	Self_motion
+trampoline	gymnastic apparatus consisting of a strong canvas sheet attached with springs to a metal frame; used for tumbling	Competition
+transponder	electrical device designed to receive a specific signal and automatically transmit a specific reply	Contacting
+trapeze	a swing used by circus acrobats	Performing_arts
+tray	an open receptacle for holding or displaying or serving articles or food	Containing
+treadmill	an exercise device consisting of an endless belt on which a person can walk or jog without changing place	Competition
+tricycle	a vehicle with three wheels that is moved by foot pedals	Self_motion
+trident	a spear with three prongs	Cause_harm
+tripod	a three-legged rack used for support	Supporting
+trolley	a wheeled vehicle that runs on rails and is propelled by electricity	Self_motion
+trombone	a brass instrument consisting of a long tube whose length can be varied by a U-shaped slide	Make_noise
+trouser	(usually in the plural) a garment extending from the waist to the knee or ankle, covering each leg separately	Wearing
+truck	an automotive vehicle suitable for hauling	Bringing
+trumpet	a brass musical instrument with a brilliant tone; has a narrow tube and a flared bell and is played by means of valves	Make_noise
+trunks	trousers that end at or above the knee	Wearing
+tub	a relatively large open container that you fill with water and use to wash the body	Grooming
+tuba	the lowest brass wind instrument	Make_noise
+tugboat	a powerful small boat designed to pull or push larger ships	Cause_motion
+turban	a traditional Muslim headdress consisting of a long scarf wrapped around the head	Wearing
+turntable	a circular horizontal platform that rotates a phonograph record while it is being played	Cause_motion
+turtle	a sweater or jersey with a high close-fitting collar	Wearing
+turtleneck	a sweater or jersey with a high close-fitting collar	Wearing
+tux	semiformal evening dress for men	Wearing
+tuxedo	semiformal evening dress for men	Wearing
+typewriter	hand-operated character printer for printing written messages one character at a time	Text_creation
+ukulele	a small guitar having four strings	Make_noise
+umbrella	a lightweight handheld collapsible canopy	Protecting
+underclothes	undergarment worn next to the skin and under the outer garments	Wearing
+undercoat	seal consisting of a coating of a tar or rubberlike material on the underside of a motor vehicle to retard corrosion	Protecting
+underpants	an undergarment that covers the body from the waist no further than to the thighs; usually worn next to the skin	Wearing
+undershirt	a collarless men's undergarment for the upper part of the body	Wearing
+underwear	undergarment worn next to the skin and under the outer garments	Wearing
+unicycle	a vehicle with a single wheel that is driven by pedals	Self_motion
+uniform	clothing of distinctive design worn by members of a particular group as a means of identification	Wearing
+urinal	a plumbing fixture (usually attached to the wall) used by men to urinate	Excreting
+urn	a large vase that usually has a pedestal or feet	Containing
+utensil	an implement for practical use (especially in a household)	None of above
+vase	an open jar of glass or porcelain used as an ornament or to hold flowers	Containing
+vehicle	a conveyance that transports people or objects	Self_motion
+vent	a hole for the escape of gas or air	None of above
+vest	a man's sleeveless garment worn underneath a coat	Wearing
+vibrator	a mechanical device that vibrates	None of above
+videocassette	a cassette for videotape	Create_representation
+videotape	a video recording made on magnetic tape	Perception_experience
+violin	bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow	Make_noise
+visor	a piece of armor plate (with eye slits) fixed or hinged to a medieval helmet to protect the face	Protecting
+wagon	any of various kinds of wheeled vehicles drawn by an animal or a tractor	Self_motion
+waistband	a band of material around the waist that strengthens a skirt or trousers	Closure
+waistcoat	a man's sleeveless garment worn underneath a coat	Wearing
+wallboard	a wide flat board used to cover walls or partitions; made from plaster or wood pulp or other materials and used primarily to form the interior walls of houses	Protecting
+wallet	a pocket-size case for holding papers and paper money	Containing
+wand	a rod used by a magician or water diviner	None of above
+wardrobe	a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes	Containing
+warplane	an aircraft designed and used for combat	Cause_harm
+warship	a government ship that is available for waging war	Cause_harm
+washbasin	a bathroom sink that is permanently installed and connected to a water supply and drainpipe; where you can wash your hands and face	Grooming
+washboard	device consisting of a corrugated surface to scrub clothes on	Removing
+washbowl	a bathroom sink that is permanently installed and connected to a water supply and drainpipe; where you can wash your hands and face	Grooming
+washcloth	bath linen consisting of a piece of cloth used to wash the face and body	Grooming
+washrag	bath linen consisting of a piece of cloth used to wash the face and body	Grooming
+washstand	furniture consisting of a table or stand to hold a basin and pitcher of water for washing: `wash-hand stand' is a British term	Supporting
+washtub	a tub in which clothes or linens can be washed	Removing
+wastebasket	a container with an open top; for discarded paper and other rubbish	Containing
+watchband	a band of cloth or leather or metal links attached to a wristwatch and wrapped around the wrist	Wearing
+weapon	any instrument or instrumentality used in fighting or hunting	Cause_harm
+webcam	a digital camera designed to take digital photographs and transmit them over the internet	Create_representation
+website	a computer connected to the internet that maintains a series of web pages on the World Wide Web	Perception_experience
+weeds	a black garment (dress) worn by a widow as a sign of mourning	Wearing
+whaleboat	a long narrow boat designed for quick turning and use in rough seas	Self_motion
+wheel	a simple machine consisting of a circular frame with spokes (or a solid disc) that can rotate on a shaft or axle (as in vehicles or other machines)	Cause_motion
+wheelbarrow	a cart for carrying small loads; has handles and one or more wheels	Bringing
+wheelchair	a movable chair mounted on large wheels; for invalids or those who cannot walk; frequently propelled by the occupant	Supporting
+whetstone	a flat stone for sharpening edged tools or knives	None of above
+wig	hairpiece covering the head and made of real or synthetic hair	Wearing
+wildcat	an exploratory oil well drilled in land not known to be an oil field	None of above
+windmill	a mill that is powered by the wind	None of above
+windowpane	a pane of glass in a window	Protecting
+windowsill	the sill of a window; the horizontal member at the bottom of the window frame	Supporting
+windscreen	transparent screen (as of glass) to protect occupants of a vehicle	Protecting
+windshield	transparent screen (as of glass) to protect occupants of a vehicle	Protecting
+wineglass	a glass that has a stem and in which wine is served	Ingestion
+wire	ligament made of metal and used to fasten things or make cages or fences etc	Closure
+wiring	a circuit of wires for the distribution of electricity	None of above
+wok	pan with a convex bottom; used for frying in Chinese cooking	Cooking_creation
+woofer	a loudspeaker that reproduces lower audio frequency sounds	Make_noise
+wool	a fabric made from the hair of sheep	None of above
+workbench	a strong worktable for a carpenter or mechanic	Supporting
+workbook	a student's book or booklet containing problems with spaces for solving them	Education_teaching
+workstation	a desktop digital computer that is conventionally considered to be more powerful than a microcomputer	None of above
+wristband	band consisting of a part of a sleeve that covers the wrist	Wearing
+wristwatch	a watch that is worn strapped to the wrist	Dimension
+xylophone	a percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets	Make_noise
+yacht	an expensive vessel propelled by sail or power and used for cruising or racing	Self_motion
+yearbook	a book published annually by the graduating class of a high school or college usually containing photographs of faculty and graduating students	Reading_activity
+yoke	fabric comprising a fitted part at the top of a garment	None of above
+zipper	a fastener for locking together two toothed edges by means of a sliding tab	Closure
