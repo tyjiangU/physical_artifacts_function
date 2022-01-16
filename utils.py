@@ -262,7 +262,5 @@ def convert_examples_to_features(
 
 processors = {
         "artifact_function": ArtifactFunctionProcessor,
-        "artifact_function_45": ArtifactFunctionProcessor,
-        "all_training": ArtifactFunctionProcessor,
         }
 
